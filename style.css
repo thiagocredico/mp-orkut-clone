@@ -1,0 +1,1576 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.orkut {
+  background: #e9f2fc;
+  width: auto;
+  height: 100vh;
+  position: relative;
+}
+
+.body {
+  position: absolute;
+  inset: 0;
+}
+
+.rectangle-5 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 156px;
+  height: 446px;
+  position: absolute;
+  left: 217px;
+  top: 48px;
+}
+
+.profile-photo {
+  margin-top: 18px;
+  width: 154px;
+  height: 154px;
+  object-fit: scale-down;
+}
+
+.amigos-e-comunidades {
+  width: 269px;
+  height: 496px;
+  position: static;
+}
+
+.communities {
+  width: 269px;
+  height: 169px;
+  position: static;
+}
+
+.rectangle-8 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 269px;
+  height: 169px;
+  position: absolute;
+  left: 954px;
+  top: 375px;
+}
+
+.list {
+  width: 250.12px;
+  height: 120px;
+  position: static;
+}
+
+._02 {
+  width: 80.23px;
+  height: 120px;
+  position: static;
+}
+
+.rectangle-10 {
+  background: #f0f0f0;
+  width: 80.23px;
+  height: 120px;
+  position: absolute;
+  left: 1048.39px;
+  top: 414px;
+}
+
+.rectangle-9 {
+  width: 70.79px;
+  height: 75px;
+  position: absolute;
+  left: 1053.11px;
+  top: 415px;
+}
+
+.git-hub-8000 {
+  color: #208abe;
+  text-align: center;
+  font: 300 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 1057px;
+  top: 493px;
+  width: 67px;
+}
+
+._03 {
+  width: 80.23px;
+  height: 120px;
+  position: static;
+}
+
+.rectangle-102 {
+  background: #f0f0f0;
+  width: 80.23px;
+  height: 120px;
+  position: absolute;
+  left: 963.44px;
+  top: 414px;
+}
+
+.codante-io-10000 {
+  color: #208abe;
+  text-align: center;
+  font: 300 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 968px;
+  top: 493px;
+  width: 71px;
+}
+
+.codante-logo {
+  color: #208abe;
+  background-color: #000000;
+  text-align: center;
+  font: 300 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 968px;
+  top: 417px;
+  width: 72px;
+}
+
+._01 {
+  width: 80.23px;
+  height: 120px;
+  position: static;
+}
+
+.rectangle-103 {
+  background: #f0f0f0;
+  width: 80.23px;
+  height: 120px;
+  position: absolute;
+  left: 1133.33px;
+  top: 414px;
+}
+
+.rectangle-92 {
+  width: 70.79px;
+  height: 75px;
+  position: absolute;
+  left: 1138.05px;
+  top: 415px;
+}
+
+.linkedin-9000 {
+  color: #208abe;
+  text-align: center;
+  font: 300 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 1138px;
+  top: 493px;
+  width: 71px;
+}
+
+.comunidades-3 {
+  text-align: left;
+  font: 700 14px "Verdana", sans-serif;
+  position: absolute;
+  left: 963.44px;
+  top: 385px;
+  width: 168.01px;
+}
+
+.comunidades-3-span {
+  color: #000000;
+  font: 700 14px "Verdana", sans-serif;
+}
+
+.comunidades-3-span2 {
+  color: #4e93aa;
+  font: 700 14px "Verdana", sans-serif;
+}
+
+.friends {
+  width: 269px;
+  height: 316px;
+  position: static;
+}
+
+.rectangle-82 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 269px;
+  height: 316px;
+  position: absolute;
+  left: 954px;
+  top: 48px;
+}
+
+.list2 {
+  width: 250.12px;
+  height: 267px;
+  position: static;
+}
+
+._05 {
+  width: 80.23px;
+  height: 131px;
+  position: static;
+}
+
+.rectangle-104 {
+  background: #f0f0f0;
+  width: 80.23px;
+  height: 131px;
+  position: absolute;
+  left: 963.44px;
+  top: 223px;
+}
+
+.rectangle-93 {
+  width: 71px;
+  height: 48px;
+  position: absolute;
+  left: 968px;
+  top: 224px;
+}
+
+.edvalduuu-489 {
+  color: #208abe;
+  text-align: center;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 968px;
+  top: 323px;
+  width: 72px;
+}
+
+._04 {
+  width: 80.23px;
+  height: 131px;
+  position: static;
+}
+
+.rectangle-105 {
+  background: #f0f0f0;
+  width: 80.23px;
+  height: 131px;
+  position: absolute;
+  left: 1048.39px;
+  top: 223px;
+}
+
+.rectangle-94 {
+  width: 70.79px;
+  height: 75px;
+  position: absolute;
+  left: 1053.11px;
+  top: 224px;
+}
+
+.maria-helena-50 {
+  color: #208abe;
+  text-align: center;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 1050px;
+  top: 308px;
+  width: 74px;
+}
+
+._032 {
+  width: 80.23px;
+  height: 131px;
+  position: static;
+}
+
+.rectangle-106 {
+  background: #f0f0f0;
+  width: 80.23px;
+  height: 131px;
+  position: absolute;
+  left: 1133.33px;
+  top: 87px;
+}
+
+.rectangle-95 {
+  width: 70.79px;
+  height: 75px;
+  position: absolute;
+  left: 1138.05px;
+  top: 88px;
+}
+
+.manoel-azevedo-237 {
+  color: #208abe;
+  text-align: center;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 1138px;
+  top: 172px;
+  width: 71px;
+}
+
+._022 {
+  width: 80.23px;
+  height: 131px;
+  position: static;
+}
+
+.rectangle-107 {
+  background: #f0f0f0;
+  width: 80.23px;
+  height: 131px;
+  position: absolute;
+  left: 1048.39px;
+  top: 87px;
+}
+
+.rectangle-96 {
+  width: 71px;
+  height: 99px;
+  position: absolute;
+  left: 1053px;
+  top: 88px;
+}
+
+.iza-iza-109 {
+  color: #208abe;
+  text-align: center;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 1058px;
+  top: 187px;
+  width: 66px;
+}
+
+._012 {
+  width: 80.23px;
+  height: 131px;
+  position: static;
+}
+
+.rectangle-108 {
+  background: #f0f0f0;
+  width: 80.23px;
+  height: 131px;
+  position: absolute;
+  left: 963.44px;
+  top: 87px;
+}
+
+.rectangle-97 {
+  width: 70.79px;
+  height: 75px;
+  position: absolute;
+  left: 968.16px;
+  top: 88px;
+}
+
+.sarah-80 {
+  color: #4e93aa;
+  text-align: center;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 968px;
+  top: 187px;
+  width: 70px;
+}
+
+.amigos-5 {
+  text-align: left;
+  font: 700 14px "Verdana", sans-serif;
+  position: absolute;
+  left: 963.44px;
+  top: 58px;
+  width: 115.15px;
+}
+
+.amigos-5-span {
+  color: #000000;
+  font: 700 14px "Verdana", sans-serif;
+}
+
+.amigos-5-span2 {
+  color: #4e93aa;
+  font: 700 14px "Verdana", sans-serif;
+}
+
+.sobre {
+  width: 592px;
+  height: 386px;
+  position: static;
+}
+
+.rectangle-11 {
+  background: #ffffff;
+  border-radius: 5px 50px 5px 5px;
+  width: 559px;
+  height: 386px;
+  position: absolute;
+  left: 384px;
+  top: 48px;
+  box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.3);
+}
+
+.quadro-sobre {
+  width: 585px;
+  height: 260px;
+  position: static;
+}
+
+.linha-12 {
+  width: 569.53px;
+  height: 19px;
+  position: static;
+}
+
+.quadro {
+  position: absolute;
+  left: 391px;
+  top: 411px;
+  overflow: visible;
+}
+
+.paix-es-livros-jogos-s-ries-e-filmes {
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 473.28px;
+  top: 413px;
+  width: 487.25px;
+  height: 16px;
+}
+
+.paix-es-livros-jogos-s-ries-e-filmes-span {
+  color: #72777f;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.paix-es-livros-jogos-s-ries-e-filmes-span2 {
+  color: #535c69;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.paix-es-livros-jogos-s-ries-e-filmes-span3 {
+  color: #000000;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.linha-11 {
+  width: 546.31px;
+  height: 19px;
+  position: static;
+}
+
+.quadro2 {
+  position: absolute;
+  left: 391px;
+  top: 392px;
+  overflow: visible;
+}
+
+.p-gina-web-https-thiago-credico-github-io {
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 450.06px;
+  top: 394px;
+  width: 487.25px;
+  height: 16px;
+}
+
+.p-gina-web-https-thiago-credico-github-io-span {
+  color: #72777f;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.p-gina-web-https-thiago-credico-github-io-span2 {
+  color: #000000;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.linha-10 {
+  width: 583.31px;
+  height: 19px;
+  position: static;
+}
+
+.quadro3 {
+  position: absolute;
+  left: 391px;
+  top: 354px;
+  overflow: visible;
+}
+
+.moro-com-meu-marido-e-meu-cachorrinho {
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 487.06px;
+  top: 356px;
+  width: 487.25px;
+  height: 16px;
+}
+
+.moro-com-meu-marido-e-meu-cachorrinho-span {
+  color: #72777f;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.moro-com-meu-marido-e-meu-cachorrinho-span2 {
+  color: #535c69;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.moro-com-meu-marido-e-meu-cachorrinho-span3 {
+  color: #000000;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.linha-9 {
+  width: 545.01px;
+  height: 19px;
+  position: static;
+}
+
+.quadro4 {
+  position: absolute;
+  left: 391px;
+  top: 373px;
+  overflow: visible;
+}
+
+.cidade-natal-osasco {
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 445.28px;
+  top: 375px;
+  width: 487.25px;
+  height: 16px;
+}
+
+.cidade-natal-osasco-span {
+  color: #72777f;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.cidade-natal-osasco-span2 {
+  color: #535c69;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.cidade-natal-osasco-span3 {
+  color: #000000;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.linha-8 {
+  width: 553.19px;
+  height: 35px;
+  position: static;
+}
+
+.quadro5 {
+  position: absolute;
+  left: 391px;
+  top: 319px;
+  overflow: visible;
+}
+
+.animais-de-meu-beb-de-quatro-patas-simba {
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 456.94px;
+  top: 321px;
+  width: 487.25px;
+  height: 30px;
+}
+
+.animais-de-meu-beb-de-quatro-patas-simba-span {
+  color: #72777f;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.animais-de-meu-beb-de-quatro-patas-simba-span2 {
+  color: #535c69;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.animais-de-meu-beb-de-quatro-patas-simba-span3 {
+  color: #000000;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.estima-o {
+  color: #72777f;
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 457px;
+  top: 336px;
+  width: 68px;
+}
+
+.linha-7 {
+  width: 585px;
+  height: 19px;
+  position: static;
+}
+
+.quadro6 {
+  position: absolute;
+  left: 391px;
+  top: 300px;
+  overflow: visible;
+}
+
+.etnia-caucasiano-banco {
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 488.75px;
+  top: 302px;
+  width: 487.25px;
+  height: 16px;
+}
+
+.etnia-caucasiano-banco-span {
+  color: #72777f;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.etnia-caucasiano-banco-span2 {
+  color: #535c69;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.etnia-caucasiano-banco-span3 {
+  color: #000000;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.etnia-caucasiano-banco-span4 {
+  color: #535c69;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.linha-6 {
+  width: 583.14px;
+  height: 19px;
+  position: static;
+}
+
+.quadro7 {
+  position: absolute;
+  left: 391px;
+  top: 281px;
+  overflow: visible;
+}
+
+.filhos-n-o {
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 486.89px;
+  top: 283px;
+  width: 487.25px;
+  height: 16px;
+}
+
+.filhos-n-o-span {
+  color: #72777f;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.filhos-n-o-span2 {
+  color: #535c69;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.filhos-n-o-span3 {
+  color: #000000;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.linha-5 {
+  width: 545.01px;
+  height: 35px;
+  position: static;
+}
+
+.quadro8 {
+  position: absolute;
+  left: 391px;
+  top: 246px;
+  overflow: visible;
+}
+
+.quem-sou-eu-sou-a-thiago-desenvolvedora-full-stack-sempre-em-busca-de {
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 440.1px;
+  top: 248px;
+  width: 487.25px;
+  height: 30px;
+}
+
+.quem-sou-eu-sou-a-thiago-desenvolvedora-full-stack-sempre-em-busca-de-span {
+  color: #72777f;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.quem-sou-eu-sou-a-thiago-desenvolvedora-full-stack-sempre-em-busca-de-span2 {
+  color: #535c69;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.quem-sou-eu-sou-a-thiago-desenvolvedora-full-stack-sempre-em-busca-de-span3 {
+  color: #000000;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.novos-aprendizados-e-tecnologias {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 528px;
+  top: 263px;
+  width: 364px;
+}
+
+.linha-4 {
+  width: 581.21px;
+  height: 19px;
+  position: static;
+}
+
+.quadro9 {
+  position: absolute;
+  left: 391px;
+  top: 208px;
+  overflow: visible;
+}
+
+.idade-31 {
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 484.96px;
+  top: 210px;
+  width: 487.25px;
+  height: 16px;
+}
+
+.idade-31-span {
+  color: #72777f;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.idade-31-span2 {
+  color: #535c69;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.idade-31-span3 {
+  color: #000000;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.idade-31-span4 {
+  color: #535c69;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.linha-3 {
+  width: 545.01px;
+  height: 19px;
+  position: static;
+}
+
+.quadro10 {
+  position: absolute;
+  left: 391px;
+  top: 227px;
+  overflow: visible;
+}
+
+.interesses-no-orkut-amigos-e-novos-conhecimentos {
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 401.7px;
+  top: 229px;
+  width: 487.25px;
+  height: 16px;
+}
+
+.interesses-no-orkut-amigos-e-novos-conhecimentos-span {
+  color: #72777f;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.interesses-no-orkut-amigos-e-novos-conhecimentos-span2 {
+  color: #535c69;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.interesses-no-orkut-amigos-e-novos-conhecimentos-span3 {
+  color: #000000;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.linha-2 {
+  width: 547.53px;
+  height: 19px;
+  position: static;
+}
+
+.quadro11 {
+  position: absolute;
+  left: 391px;
+  top: 189px;
+  overflow: visible;
+}
+
+.anivers-rio-20-novembro {
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 451.28px;
+  top: 191px;
+  width: 487.25px;
+  height: 16px;
+}
+
+.anivers-rio-20-novembro-span {
+  color: #72777f;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.anivers-rio-20-novembro-span2 {
+  color: #535c69;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.anivers-rio-20-novembro-span3 {
+  color: #000000;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.anivers-rio-20-novembro-span4 {
+  color: #535c69;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.linha-1 {
+  width: 545.01px;
+  height: 19px;
+  position: static;
+}
+
+.quadro12 {
+  position: absolute;
+  left: 391px;
+  top: 170px;
+  overflow: visible;
+}
+
+.relacionamento-casado-a {
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 425.06px;
+  top: 172px;
+  width: 487.25px;
+  height: 16px;
+}
+
+.relacionamento-casado-a-span {
+  color: #72777f;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.relacionamento-casado-a-span2 {
+  color: #535c69;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.relacionamento-casado-a-span3 {
+  color: #000000;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.relacionamento-casado-a-span4 {
+  color: #535c69;
+  font: 400 12px "Verdana", sans-serif;
+}
+
+.divisoria {
+  position: absolute;
+  left: 384px;
+  top: 165.5px;
+  transform: translate(0px, -1.99px);
+  overflow: visible;
+}
+
+.aba-social {
+  width: 50px;
+  height: 24px;
+  position: static;
+}
+
+.rectangle-16 {
+  background: var(--gradient,
+      linear-gradient(180deg,
+        rgba(81, 127, 197, 1) 13.02083283662796%,
+        rgba(81, 127, 197, 0.75) 30.72916567325592%,
+        rgba(81, 127, 197, 0.75) 82.8125%,
+        rgba(81, 127, 197, 1) 96.35416865348816%));
+  border-radius: 7px 7px 0px 0px;
+  width: 50px;
+  height: 24px;
+  position: absolute;
+  left: 392px;
+  top: 142px;
+}
+
+.social {
+  color: #ffffff;
+  text-align: left;
+  font: 700 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 398px;
+  top: 146px;
+}
+
+.divisoria2 {
+  position: absolute;
+  left: 391px;
+  top: 138.5px;
+  transform: translate(0px, -1.46px);
+  overflow: visible;
+}
+
+.sexy {
+  width: 52px;
+  height: 30px;
+  position: static;
+}
+
+.recados {
+  color: #535c69;
+  text-align: left;
+  font: 400 10px "Verdana", sans-serif;
+  position: absolute;
+  left: 729px;
+  top: 104px;
+  width: 50px;
+}
+
+.heart {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 729px;
+  top: 116px;
+}
+
+.heart2 {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 746px;
+  top: 116px;
+}
+
+.heart3 {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 763px;
+  top: 116px;
+}
+
+.legal {
+  width: 52px;
+  height: 30px;
+  position: static;
+}
+
+.recados2 {
+  color: #535c69;
+  text-align: left;
+  font: 400 10px "Verdana", sans-serif;
+  position: absolute;
+  left: 662px;
+  top: 104px;
+  width: 50px;
+}
+
+.cubo-1 {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 662px;
+  top: 116px;
+}
+
+.cubo-2 {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 679px;
+  top: 116px;
+}
+
+.cubo-3 {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 696px;
+  top: 116px;
+}
+
+.confi-vel {
+  width: 50px;
+  height: 29px;
+  position: static;
+}
+
+.recados3 {
+  color: #535c69;
+  text-align: left;
+  font: 400 10px "Verdana", sans-serif;
+  position: absolute;
+  left: 600px;
+  top: 104px;
+  width: 50px;
+}
+
+.smile-1 {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 600px;
+  top: 115px;
+}
+
+.smile-2 {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 615px;
+  top: 115px;
+}
+
+.smile-3 {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 630px;
+  top: 115px;
+}
+
+.f-s {
+  width: 50px;
+  height: 29px;
+  position: static;
+}
+
+.recados4 {
+  color: #535c69;
+  text-align: left;
+  font: 400 10px "Verdana", sans-serif;
+  position: absolute;
+  left: 548px;
+  top: 104px;
+  width: 50px;
+}
+
+._15 {
+  color: #535c69;
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 570px;
+  top: 117px;
+  width: 26px;
+}
+
+.recados-1 {
+  width: 16.33px;
+  height: 16px;
+  position: absolute;
+  left: 548.2px;
+  top: 117px;
+}
+
+.v-deos {
+  width: 50px;
+  height: 29px;
+  position: static;
+}
+
+.recados5 {
+  color: #535c69;
+  text-align: left;
+  font: 400 10px "Verdana", sans-serif;
+  position: absolute;
+  left: 503px;
+  top: 104px;
+  width: 50px;
+}
+
+._5 {
+  color: #535c69;
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 525px;
+  top: 117px;
+  width: 26px;
+}
+
+.recados-12 {
+  width: 16.33px;
+  height: 16px;
+  position: absolute;
+  left: 503.2px;
+  top: 117px;
+}
+
+.fotos {
+  width: 44.32px;
+  height: 29px;
+  position: static;
+}
+
+.recados6 {
+  color: #535c69;
+  text-align: left;
+  font: 400 10px "Verdana", sans-serif;
+  position: absolute;
+  left: 458px;
+  top: 104px;
+  width: 42px;
+}
+
+._0 {
+  color: #535c69;
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 480.48px;
+  top: 117px;
+  width: 21.84px;
+}
+
+.recados-4 {
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 458px;
+  top: 117px;
+}
+
+.recados7 {
+  width: 50px;
+  height: 29px;
+  position: static;
+}
+
+.recados8 {
+  color: #535c69;
+  text-align: left;
+  font: 400 10px "Verdana", sans-serif;
+  position: absolute;
+  left: 397px;
+  top: 104px;
+  width: 50px;
+}
+
+._114 {
+  color: #535c69;
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 419px;
+  top: 117px;
+  width: 26px;
+}
+
+.recados-13 {
+  width: 16.33px;
+  height: 16px;
+  position: absolute;
+  left: 397.2px;
+  top: 117px;
+}
+
+.divisoria3 {
+  position: absolute;
+  left: 391px;
+  top: 97.5px;
+  transform: translate(0px, -1.46px);
+  overflow: visible;
+}
+
+.thiago-credico {
+  color: #000000;
+  text-align: left;
+  font: 400 26px "Verdana", sans-serif;
+  position: absolute;
+  left: 394.25px;
+  top: 55px;
+  width: 290.83px;
+}
+
+.perfil {
+  width: 159px;
+  height: 413px;
+  position: static;
+}
+
+.menu {
+  width: 146px;
+  height: 122px;
+  position: static;
+}
+
+.divisoria4 {
+  position: absolute;
+  left: 222px;
+  top: 482px;
+  overflow: visible;
+}
+
+.rectangle-109 {
+  background: #eff9ff;
+  border-radius: 0px 2px 2px 2px;
+  border-style: solid;
+  border-color: #dde9f8;
+  border-width: 1px;
+  width: 146px;
+  height: 24px;
+  position: absolute;
+  left: 222px;
+  top: 452px;
+}
+
+.depoimentos {
+  color: #535c69;
+  text-align: left;
+  font: 400 12px/22px "Verdana", sans-serif;
+  position: absolute;
+  left: 248px;
+  top: 452px;
+  width: 78px;
+}
+
+.sun-1 {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 225px;
+  top: 455px;
+}
+
+.rectangle-98 {
+  background: #eff9ff;
+  border-style: solid;
+  border-color: #dde9f8;
+  border-width: 1px;
+  width: 146px;
+  height: 24px;
+  position: absolute;
+  left: 222px;
+  top: 429px;
+}
+
+.recados-5 {
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 226px;
+  top: 433px;
+}
+
+.v-deos2 {
+  color: #535c69;
+  text-align: left;
+  font: 400 12px/22px "Verdana", sans-serif;
+  position: absolute;
+  left: 248px;
+  top: 429px;
+  width: 39px;
+}
+
+.rectangle-83 {
+  background: #eff9ff;
+  border-style: solid;
+  border-color: #dde9f8;
+  border-width: 1px;
+  width: 146px;
+  height: 24px;
+  position: absolute;
+  left: 222px;
+  top: 406px;
+}
+
+.recados-42 {
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 226px;
+  top: 410px;
+}
+
+.fotos2 {
+  color: #535c69;
+  text-align: left;
+  font: 400 12px/22px "Verdana", sans-serif;
+  position: absolute;
+  left: 248px;
+  top: 406px;
+  width: 30px;
+}
+
+.rectangle-7 {
+  background: #eff9ff;
+  border-style: solid;
+  border-color: #dde9f8;
+  border-width: 1px;
+  width: 146px;
+  height: 24px;
+  position: absolute;
+  left: 222px;
+  top: 383px;
+}
+
+.recados-2 {
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 226px;
+  top: 387px;
+}
+
+.recados9 {
+  color: #535c69;
+  text-align: left;
+  font: 400 12px/22px "Verdana", sans-serif;
+  position: absolute;
+  left: 248px;
+  top: 383px;
+  width: 47px;
+}
+
+.rectangle-6 {
+  background: #eff9ff;
+  border-radius: 2px 2px 0px 0px;
+  border-style: solid;
+  border-color: #dde9f8;
+  border-width: 1px;
+  width: 146px;
+  height: 24px;
+  position: absolute;
+  left: 222px;
+  top: 360px;
+}
+
+.recados-3 {
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 226px;
+  top: 364px;
+}
+
+.perfil2 {
+  color: #535c69;
+  text-align: left;
+  font: 400 12px/22px "Verdana", sans-serif;
+  position: absolute;
+  left: 248px;
+  top: 360px;
+  width: 31px;
+}
+
+.friend {
+  width: 149px;
+  height: 49px;
+  position: static;
+}
+
+.divisoria5 {
+  position: absolute;
+  left: 222px;
+  top: 354px;
+  overflow: visible;
+}
+
+.amigo-mais {
+  color: #4e93aa;
+  text-align: center;
+  font: 400 12px/22px "Verdana", sans-serif;
+  position: absolute;
+  left: 240px;
+  top: 305px;
+}
+
+.edit-profile-1 {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 219px;
+  top: 308px;
+}
+
+.infos {
+  width: 155.75px;
+  height: 57.5px;
+  position: static;
+}
+
+.divisoria6 {
+  position: absolute;
+  left: 222.25px;
+  top: 302.5px;
+  overflow: visible;
+}
+
+.s-o-paulo-brasil {
+  color: #979797;
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 226px;
+  top: 281px;
+  width: 152px;
+}
+
+.casado-a {
+  color: #979797;
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 226px;
+  top: 266px;
+  width: 152px;
+}
+
+.thiago-credico2 {
+  color: #4e93aa;
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 226px;
+  top: 245px;
+  width: 119px;
+}
+
+.picture {
+  position: absolute;
+  left: 230px;
+  top: 69px;
+  overflow: visible;
+}
+
+.header {
+  position: absolute;
+  inset: 0;
+}
+
+.rectangle-15 {
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  overflow: visible;
+}
+
+.search {
+  position: absolute;
+  left: 1022px;
+  top: 4px;
+  overflow: visible;
+}
+
+.rectangle-17 {
+  background: linear-gradient(180deg,
+      rgba(235, 235, 235, 1) 0%,
+      rgba(255, 255, 255, 1) 33.33333432674408%,
+      rgba(255, 255, 255, 1) 82.8125%,
+      rgba(204, 204, 204, 1) 100%);
+  width: 91px;
+  height: 34px;
+  position: absolute;
+  left: 214px;
+  top: 0px;
+}
+
+.logo {
+  width: 65px;
+  height: 22.96px;
+  position: absolute;
+  left: 226px;
+  top: 4px;
+}
+
+.p-gina-de-recados {
+  color: #ffffff;
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 364px;
+  top: 10px;
+}
+
+.inicio {
+  color: #ffffff;
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 317px;
+  top: 10px;
+}
+
+.amigos {
+  color: #ffffff;
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 488px;
+  top: 10px;
+}
+
+.comunidades {
+  color: #ffffff;
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 547px;
+  top: 10px;
+}
+
+.thiagoc-credico-gmail-com {
+  color: #36527d;
+  text-align: left;
+  font: 700 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 801px;
+  top: 10px;
+}
+
+.sair {
+  color: #ffffff;
+  text-align: left;
+  font: 400 12px "Verdana", sans-serif;
+  position: absolute;
+  left: 989px;
+  top: 10px;
+}
+
+.cdnt-1 {
+  position: absolute;
+  left: 966px;
+  top: 402px;
+  overflow: visible;
+}
