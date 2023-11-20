@@ -620,7 +620,7 @@
   overflow: visible;
 }
 
-.etnia-caucasiano-banco {
+.etnia-caucasiano-branco {
   text-align: left;
   font: 400 12px "Verdana", sans-serif;
   position: absolute;
@@ -630,22 +630,22 @@
   height: 16px;
 }
 
-.etnia-caucasiano-banco-span {
+.etnia-caucasiano-branco-span {
   color: #72777f;
   font: 400 12px "Verdana", sans-serif;
 }
 
-.etnia-caucasiano-banco-span2 {
+.etnia-caucasiano-branco-span2 {
   color: #535c69;
   font: 400 12px "Verdana", sans-serif;
 }
 
-.etnia-caucasiano-banco-span3 {
+.etnia-caucasiano-branco-span3 {
   color: #000000;
   font: 400 12px "Verdana", sans-serif;
 }
 
-.etnia-caucasiano-banco-span4 {
+.etnia-caucasiano-branco-span4 {
   color: #535c69;
   font: 400 12px "Verdana", sans-serif;
 }
